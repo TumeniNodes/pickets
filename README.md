@@ -1,6 +1,6 @@
 # Pickets
 
-A mod for Luanti (formerly Minetest) that adds picket fences, fancy decorative fences, and matching working gates to your game.
+A mod for Minetest Game for the Luanti Engine (formerly Minetest) that adds picket fences, fancy decorative fences, and matching working gates to your game.
 
 ## Features
 * **Picket Fences**: Classic wooden fencing options including straight paths, posts, inner corners, and outer corners.
