@@ -1,0 +1,33 @@
+# Pickets Mod Module Config
+
+# Picket Types Toggles
+enable_standard_pickets (Enable Standard Pickets Mod) bool true
+# If turned off, all standard fences, corners, and gates will be hidden from the creative menu.
+
+enable_fancy_pickets (Enable Fancy Pickets Mod) bool true
+# If turned off, all decorative fancy fences and fancy gates will be hidden from the creative menu.
+
+# Picket Material Toggles
+enable_picket_birch (Enable Birch Pickets) bool true
+# Toggles the Birch color option across all active modules.
+
+enable_picket_maple (Enable Maple Pickets) bool true
+# Toggles the Maple color option across all active modules.
+
+enable_picket_oak (Enable Oak Pickets) bool true
+# Toggles the Oak color option across all active modules.
+
+enable_picket_pine (Enable Pine Pickets) bool true
+# Toggles the Pine color option across all active modules.
+
+enable_picket_walnut (Enable Walnut Pickets) bool true
+# Toggles the Walnut color option across all active modules.
+
+enable_picket_white (Enable White Pickets) bool true
+# Toggles the White color option across all active modules.
+
+enable_picket_willow (Enable Willow Pickets) bool true
+# Toggles the Willow color option across all active modules.
+
+enable_picket_wood (Enable Default Wood Pickets) bool true
+# Toggles the Default Wood color option across all active modules.
