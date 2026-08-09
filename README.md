@@ -26,3 +26,14 @@ A mod for Minetest Game for the Luanti Engine (formerly Minetest) that adds pick
 * **Code**: MIT License — Copyright (C) 2015-2026 TumeniNodes
 * **Media (Textures, Models, Sounds)**: CC-BY-SA — Copyright (C) 2015-2026 TumeniNodes
 
+### Screenshots
+
+![Screenshot_01](screenshots/Screenshot_01.png)
+
+![Screenshot_02](screenshots/Screenshot_02.png)
+
+![Screenshot_03](screenshots/Screenshot_03.png)
+
+![Screenshot_04](screenshots/Screenshot_04.png)
+
+![Screenshot_05](screenshots/Screenshot_05.png)
