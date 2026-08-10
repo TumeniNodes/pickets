@@ -7,6 +7,10 @@ enable_standard_pickets (Enable Standard Pickets Mod) bool true
 enable_fancy_pickets (Enable Fancy Pickets Mod) bool true
 # If turned off, all decorative fancy fences and fancy gates will be hidden from the creative menu.
 
+# Enable / Disable Flowerboxes
+enable_flowerbox_module (Enable Flowerbox Module) bool true
+# If turned off, all empty, dirt-filled, and blooming hanging boxes will be hidden from the creative menu.
+
 # Picket Material Toggles
 enable_picket_birch (Enable Birch Pickets) bool true
 # Toggles the Birch color option across all active modules.
@@ -31,3 +35,4 @@ enable_picket_willow (Enable Willow Pickets) bool true
 
 enable_picket_wood (Enable Default Wood Pickets) bool true
 # Toggles the Default Wood color option across all active modules.
+
