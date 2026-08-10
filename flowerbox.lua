@@ -17,9 +17,9 @@ local STAGE_GROWN   = 3
 
 -- Add Flowers Here
 flowerbox.registered_flowers = {
-	{id = "rose",   desc = "Rose",   tex = "flowers_rose.png"},
-	{id = "viola",  desc = "Viola",  tex = "flowers_viola.png"},
-	{id = "daisy",  desc = "Daisy",  tex = "flowers_dandelion_white.png"},
+	{id = "rose",   desc = "Rose",   tex = "flowerbox_flowers_rose.png"},
+	{id = "viola",  desc = "Viola",  tex = "flowerbox_flowers_viola.png"},
+	{id = "daisy",  desc = "Daisy",  tex = "flowerbox_flowers_dandelion_white.png"},
 }
 
 local function is_valid_attachment(pos)
@@ -212,11 +212,11 @@ function flowerbox.register_box_variant(subname, groups, mat_tex, type_desc, nod
 
 	-- FULL FLOWERBOX
 
-local top_texture = mat_tex .. "^window_dirt.png"
+local top_texture = mat_tex .. "^flowerbox_window_dirt.png"
 	if node_type == "picketbox" then
-		top_texture = mat_tex .. "^picket_dirt.png"
+		top_texture = mat_tex .. "^flowerbox_picket_dirt.png"
 	elseif node_type == "windowbox" then
-		top_texture = mat_tex .. "^window_dirt.png"
+		top_texture = mat_tex .. "^flowerbox_window_dirt.png"
 	end
 
 	minetest.register_node(":" .. full_name, {

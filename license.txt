@@ -28,9 +28,11 @@ Textures:
 - flowerbox_seeds_viola.png
 - flowerbox_watering_can_empty.png
 - flowerbox_watering_can_full.png
-- flowers_dandelion_white.png
-- flowers_rose.png
-- flowers_viola.png
+- flowerbox_dandelion_white.png
+- flowerbox_rose.png
+- flowerbox_viola.png
+- flowerbox_window_dirt.png
+- flowerbox_picket_dirt.png
 - pickets_birch_planks.png
 - pickets_maple_planks.png
 - pickets_oak_planks.png
